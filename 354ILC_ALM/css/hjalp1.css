@@ -1,0 +1,54 @@
+body {
+    margin: 4em 10em 10em 10em;
+}
+
+img{
+    max-width: 70em;
+}
+
+section ul .minus-indent1{
+    text-indent: -17px;
+}
+
+.table-of-contents{
+    white-space: pre-line;
+}
+
+.content-of-table{
+    text-decoration: none; 
+    color: black; 
+    font-size: 1.4em; 
+    font-weight: bold;
+    line-height: 40px;
+}
+
+a { 
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+}
+
+p { 
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    font-size: 1.1em; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+}
+
+ul {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    font-size: 1.1em; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+}
+
+h2{
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    font-size: 1.4em; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+}
