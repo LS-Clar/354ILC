@@ -4,49 +4,108 @@
 <desc>Created with Fabric.js 5.2.4</desc>
 <defs>
 </defs>
-<g transform="matrix(1 0 0 1 540 540)" id="20ad3452-92aa-4ecf-bdd2-4b3528daa9b5"  >
+<g transform="matrix(1 0 0 1 540 540)" id="c35a52e6-7a4a-4d16-a563-70c82c0cb6e1"  >
 </g>
-<g transform="matrix(1 0 0 1 540 540)" id="30891044-c371-4c28-94eb-b5bd01d246da"  >
+<g transform="matrix(1 0 0 1 540 540)" id="1f709ef4-7a08-4ff4-98dc-c5dd4b7e169f"  >
 <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
 </g>
-<g transform="matrix(15.23 0 0 15.23 540 540)" id="fb1ac330-2d4c-42b7-84d3-cbdc4f27d184"  >
-<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,193); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+<g transform="matrix(1 0 0 1 500.69 540)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
 </g>
-<g transform="matrix(11.82 0 0 11.82 540 540)" id="ef6815a4-2ca9-4890-b376-d76b1940970e"  >
-<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(167,36,141); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+<g transform="matrix(15.23 0 0 15.23 539.69 540)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(158,0,165); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
-<g transform="matrix(1 0 0 1 540 76.17)" style="" id="911ac6b3-dc09-47ca-b026-ee33cfc7ef61"  >
-		<text xml:space="preserve" font-family="Arial" font-size="72" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-129.74" y="22.62" >Leitir.is</tspan></text>
+<g transform="matrix(11.82 0 0 11.82 539.69 540)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.27;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
-<g transform="matrix(1 0 0 1 540 230.27)" style="" id="7b0446a9-3933-4980-ad98-d925549fab92"  >
-		<text xml:space="preserve" font-family="Arial" font-size="64" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-84.61" y="-16.06" >My IZ:</tspan><tspan x="-202.24" y="56.26" >Public libraries</tspan></text>
+<g transform="matrix(4.92 0 0 3 396.31 455.41)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.38;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
-<g transform="matrix(4.92 0 0 3 435.62 455.41)" id="6d721aad-1d74-496b-b5a9-87eecb9135fa"  >
-<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,69,186); fill-rule: nonzero; opacity: 0.75;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+<g transform="matrix(4.92 0 0 3 632.85 568.83)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.38;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
-<g transform="matrix(1 0 0 1 437.08 442.44)" style="" id="eb97fc40-0444-4d8c-bf51-0a4c4913145e"  >
-		<text xml:space="preserve" font-family="Arial" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-161.54" y="12.57" >Physical resources</tspan></text>
+<g transform="matrix(4.92 0 0 3 438.48 716.72)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.38;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
-<g transform="matrix(4.92 0 0 3 672.16 568.83)" id="6d721aad-1d74-496b-b5a9-87eecb9135fa"  >
-<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,69,186); fill-rule: nonzero; opacity: 0.75;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+<g transform="matrix(4.92 0 0 3 812.61 709.19)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.38;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
 </g>
-<g transform="matrix(1 0 0 1 675.93 572.51)" style="" id="78a65c23-5f83-4d3a-8d5d-0e49c61dd1cb"  >
-		<text xml:space="preserve" font-family="Arial" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-104.58" y="12.57" >E-resources</tspan></text>
+<g transform="matrix(1 0 0 1 540.5 81.58)" style="filter: url(#SVGID_73);" id="d1e3941b-c6a8-4ae4-9036-e44000878c91"  >
+<filter id="SVGID_73" y="-27%" height="154%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="72" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-113.18" y="22.62" >Leitir.is</tspan></text>
 </g>
-<g transform="matrix(4.92 0 0 3 477.79 716.72)" id="6d721aad-1d74-496b-b5a9-87eecb9135fa"  >
-<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,69,186); fill-rule: nonzero; opacity: 0.75;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+<g transform="matrix(1 0 0 1 534.7 237.78)" style="filter: url(#SVGID_50);" id="a293eef2-6c0e-4b6c-94a1-243ec935df69"  >
+<filter id="SVGID_50" y="-25%" height="150%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="44" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-61.78" y="-23.47" >My IZ:</tspan><tspan x="-148.17" y="51.11" >Public Libraries</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 476.48 707.94)" style="" id="a1ceb20a-36eb-40cf-bed7-c9d8cd47fefb"  >
-		<text xml:space="preserve" font-family="Arial" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-74.82" y="12.57" >HVAR.IS</tspan></text>
+<g transform="matrix(1 0 0 1 386.37 443.89)" style="filter: url(#SVGID_139);" id="07f396c6-e535-4fef-850a-7dc4fb428b8b"  >
+<filter id="SVGID_139" y="-25%" height="150%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(238,234,234); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-71.66" y="-21.33" >Physical</tspan><tspan x="-90.84" y="46.47" >Resources</tspan></text>
 </g>
-<g transform="matrix(4.92 0 0 3 851.92 709.19)" id="6d721aad-1d74-496b-b5a9-87eecb9135fa"  >
-<circle style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,69,186); fill-rule: nonzero; opacity: 0.75;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="35" />
+<g transform="matrix(1 0 0 1 437.08 712.87)" style="filter: url(#SVGID_163);" id="75502d79-022d-46ed-bf4f-a04832b86561"  >
+<filter id="SVGID_163" y="-33%" height="166%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-74.82" y="12.57" >HVAR.IS</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 875.38 707.94)" style="" id="87c18a88-d31c-4e18-879a-2ce58e4b960c"  >
-		<text xml:space="preserve" font-family="Arial" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-93.18" y="12.57" >OverDrive</tspan></text>
+<g transform="matrix(1 0 0 1 637.68 562.81)" style="filter: url(#SVGID_165);"  >
+<filter id="SVGID_165" y="-33%" height="166%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(238,234,234); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-104.58" y="12.57" >E-resources</tspan></text>
 </g>
-<g transform="matrix(0 0 0 0 0 0)"  >
-<g style=""   >
-</g>
+<g transform="matrix(1 0 0 1 820.05 710.7)" style="filter: url(#SVGID_167);"  >
+<filter id="SVGID_167" y="-33%" height="166%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="6" dy="6" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="400" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(238,234,234); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-93.18" y="12.57" >OverDrive</tspan></text>
 </g>
 </svg>
